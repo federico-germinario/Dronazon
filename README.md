@@ -1,5 +1,5 @@
 # Dronazon
-Progetto Laboratorio di Sistemi Distribuiti e Pervasivi 2021 
+Progetto Laboratorio di Sistemi Distribuiti e Pervasivi 2021 @UNIMI
 
 
 # Descrizione del progetto
